@@ -1,0 +1,7 @@
+model_path: "models/llama-2-7b.ggmlv3.q4_0.bin"
+n_gpu_layers: 0  # Set to 0 if you don't have a GPU
+n_batch: 512
+max_tokens: 2000
+n_ctx: 2048
+temperature: 0.7
+device: device
